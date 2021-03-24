@@ -1,6 +1,6 @@
 # About the PunchOut2Go Integration Asset
 
-The integration of HCL Commerce with PunchOut2Go where HCL Commerce provides commerce functionality and PunchOut2Go provides two-way integration between an HCL Commerce store and hundreds of e-procurement and ERP platforms. With PunchOut2Go, B2B sellers can provide WebSphere punchout to their customers without the expense of manual integration.
+The integration of HCL Commerce with PunchOut2Go where HCL Commerce provides commerce functionality and PunchOut2Go provides two-way integration between an HCL Commerce store and hundreds of e-procurement and ERP platforms. With PunchOut2Go, B2B sellers can provide HCL Commerce punchout to their customers without the expense of manual integration.
 
 **DISCLAIMER: This asset is being provided as-is to help accelerate your projects. As such, we are unable to provide official support for this asset. We have provided documentation as well as any needed code artifacts for your use.**
 
