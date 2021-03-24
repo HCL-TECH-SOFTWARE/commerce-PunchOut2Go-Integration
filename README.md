@@ -1,10 +1,10 @@
-# About the PunchOut2Go Integration POC
+# About the PunchOut2Go Integration Asset
 
 The integration of HCL Commerce with PunchOut2Go where HCL Commerce provides commerce functionality and PunchOut2Go provides two-way integration between an HCL Commerce store and hundreds of e-procurement and ERP platforms. With PunchOut2Go, B2B sellers can provide WebSphere punchout to their customers without the expense of manual integration.
 
 This integration is implemented using REST API approach so that it will be easy to integrate the same with Sapphire (B2B React Store).
 
-# Scope of the POC
+# Scope of the Asset:
 **•	Session setup:**
 1.	Buyer and Supplier Org Authentication
 2.	Create the Requisitioner User with default Password
@@ -19,7 +19,7 @@ This integration is implemented using REST API approach so that it will be easy 
 1. Create the Order for items which are approved from procurement system
 2. “COD” as Default payment method used
 
-## Out of Scope for this POC
+## Out of Scope for this Asset:
 •	Commerce will not maintain the Order History it will be taken care by Punchout/Procurement.
 
 ## Backend Part
