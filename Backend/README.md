@@ -6,4 +6,4 @@ Please download the V9_PunchOut2Go_Integration.zip file, which contains the foll
 
 
 # Integration Steps
-Please refer the **V9_PunchOut2Go_Integration.pdf**
+Please refer the **Implementation_Guide_PO2GO_Backend.pdf**
