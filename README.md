@@ -6,6 +6,8 @@ The integration of HCL Commerce with PunchOut2Go where HCL Commerce provides com
 
 This integration is implemented using REST API approach so that it will be easy to integrate the same with Sapphire (B2B React Store).
 
+**HLD_PO2GO** is the High Level Design Documentation produced for this asset.
+
 # Scope of the Asset:
 **•	Session setup:**
 1.	Buyer and Supplier Org Authentication
