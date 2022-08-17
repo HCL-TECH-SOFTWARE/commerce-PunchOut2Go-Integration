@@ -8,8 +8,6 @@ If you have questions or encounter problems with an HCL Commerce open source ass
 ## PunchOut2Go (TradeCentric) Integration Asset
 The integration of HCL Commerce with PunchOut2Go where HCL Commerce provides commerce functionality and PunchOut2Go provides two-way integration between an HCL Commerce store and hundreds of e-procurement and ERP platforms. With PunchOut2Go, B2B sellers can provide HCL Commerce punchout to their customers without the expense of manual integration.
 
-**DISCLAIMER: This asset is being provided as-is to help accelerate your projects. As such, we are unable to provide official support for this asset. We have provided documentation as well as any needed code artifacts for your use.**
-
 This integration is implemented using REST API approach so that it will be easy to integrate the same with Sapphire (B2B React Store).
 
 # Scope of the Asset:
