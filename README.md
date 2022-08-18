@@ -1,8 +1,13 @@
-# About the PunchOut2Go Integration Asset
+# PunchOut2Go (TradeCentric) Integration Asset
+
+## WARRANTY & SUPPORT 
+HCL Software provides HCL Commerce open source assets “as-is” without obligation to support them nor warranties or any kind, either express or implied, including the warranty of title, non-infringement or non-interference, and the implied warranties and conditions of merchantability and fitness for a particular purpose. HCL Commerce open source assets are not covered under the HCL Commerce master license nor Support contracts.
+
+If you have questions or encounter problems with an HCL Commerce open source asset, please open an issue in the asset's GitHub repository. For more information about [GitHub issues](https://docs.github.com/en/issues), including creating an issue, please refer to [GitHub Docs](https://docs.github.com/en). The HCL Commerce Innovation Factory Team, who develops HCL Commerce open source assets, monitors GitHub issues and will do their best to address them. 
+
+## HCLC PunchOut2Go Payment Integration Asset
 
 The integration of HCL Commerce with PunchOut2Go where HCL Commerce provides commerce functionality and PunchOut2Go provides two-way integration between an HCL Commerce store and hundreds of e-procurement and ERP platforms. With PunchOut2Go, B2B sellers can provide HCL Commerce punchout to their customers without the expense of manual integration.
-
-**DISCLAIMER: This asset is being provided as-is to help accelerate your projects. As such, we are unable to provide official support for this asset. We have provided documentation as well as any needed code artifacts for your use.**
 
 This integration is implemented using REST API approach so that it will be easy to integrate the same with Sapphire (B2B React Store).
 
